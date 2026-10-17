@@ -20,14 +20,6 @@
 [![Portfolio](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
 </div>
-
-```
- ____________________________________________________________________
-|                                                                    |
-|  "Turning ideas into reality with clean code and modern tools."    |
-|____________________________________________________________________|
-```
-
 ```
 +--[ ABOUT ME ]-------------------------------------------------------+
 |                                                                      |
@@ -36,7 +28,7 @@
 |  > studying .... Computer Science & Computer Network Engineering     |
 |  > learning .... Networking, System Administration, Software Dev     |
 |  > ask me ...... Networking concepts, CS, and tech projects          |
-|  > contact ..... your-email@example.com                              |
+|  > contact ..... saomoni.edu.kh@gmail.com                            |
 |                                                                      |
 +----------------------------------------------------------------------+
 ```
