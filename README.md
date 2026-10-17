@@ -62,8 +62,8 @@
 +----------------------------------------------------------------------+
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sao-moni)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sao-moni)
 [![Portfolio](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
 </div>
@@ -137,17 +137,17 @@
 
 ```
 +--[ GITHUB ACTIVITY ]------------------------------------------------+
-|  $ git stats --user YOUR_USERNAME                                    |
+|  $ git stats --user sao-moni                                    |
 +----------------------------------------------------------------------+
 ```
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=3fb950&icon_color=3fb950" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=3fb950" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sao-moni&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=3fb950&icon_color=3fb950" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sao-moni&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=3fb950" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sao-moni&theme=dark&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" alt="GitHub Streak" />
 </div>
 
 <div align="center">
