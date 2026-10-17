@@ -52,19 +52,12 @@
 +--[ TECH STACK ]-----------------------------------------------------+
 |                                                                      |
 |  ~/languages                                                         |
-|   +-- JavaScript                                                     |
-|   +-- TypeScript                                                     |
+|   +-- Lua                                                            |
 |   `-- Python                                                         |
 |                                                                      |
-|  ~/frameworks                                                        |
-|   +-- React                                                          |
-|   +-- Node.js                                                        |
-|   `-- TailwindCSS                                                    |
-|                                                                      |
-|  ~/tools                                                             |
-|   +-- Git                                                            |
-|   +-- Docker                                                         |
-|   `-- PostgreSQL                                                     |
+|  ~/Database                                                          |
+|   +-- Mysql                                                          |
+|   `-- SqlServer                                                      |
 |                                                                      |
 +----------------------------------------------------------------------+
 ```
