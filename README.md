@@ -39,11 +39,7 @@
 |                                                                      |
 |  [*] Western University ................ Phnom Penh, Cambodia        |
 |   |                                                                  |
-|   `--> B.Sc. Computer Science ................... 2025 - 2029        |
-|                                                                      |
-|  [*] National Technical Training Institute . Phnom Penh, Cambodia    |
-|   |                                                                  |
-|   `--> A.Sc. Computer Network Engineering ....... 2026 - Present     |
+|   `--> B.Sc. Computer Science ................... 2025 - Present     |
 |                                                                      |
 +----------------------------------------------------------------------+
 ```
